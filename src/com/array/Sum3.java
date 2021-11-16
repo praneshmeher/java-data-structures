@@ -1,7 +1,5 @@
 package com.array;
 
-import java.util.Iterator;
-
 public class Sum3 {
 	
 	static void reverseArray(int arr[]) {
