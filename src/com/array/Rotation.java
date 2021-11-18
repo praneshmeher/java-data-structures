@@ -17,11 +17,17 @@ public class Rotation {
 		}
 	}
 	
+	void print1(int arr[]) {
+		for(int num:arr) {
+			System.out.println(num);
+		}
+	}
+	
 	public static void main(String args[]) {
 		Rotation r = new Rotation();
 		int arr[] = {1,2,3,4,5};
 		r.rotate(arr, 2);
-		r.print(arr);
+		r.print1(arr);
 	}
 
 }
