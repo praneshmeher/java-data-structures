@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlist;
 
 public class LinkedList {
 	Node head;

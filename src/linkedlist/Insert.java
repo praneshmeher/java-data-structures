@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlist;
 
 public class Insert {
 	Node head;

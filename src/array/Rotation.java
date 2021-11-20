@@ -1,4 +1,4 @@
-package com.array;
+package array;
 
 public class Rotation {
 	void rotate(int arr[], int n) {
